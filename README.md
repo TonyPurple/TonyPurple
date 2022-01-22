@@ -7,7 +7,6 @@
   <hr>
    <div>
       <h3>Reach out:</h3>
-      <a href="https://www.benmanley.biz/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
       <a href="https://www.linkedin.com/in/anthony-vanoni/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
       <a href="https://github.com/TonyPurple"><img src="https://img.shields.io/github/followers/TonyPurple?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
       <a href="mailto: tony.vanoni@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
