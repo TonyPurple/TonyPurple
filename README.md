@@ -12,6 +12,15 @@
       <a href="mailto: tony.vanoni@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Email&logoColor=white" />  </a>
    </div>
    <hr>
+   <div>
+    <h3>Comfortable working in:</h3>
+      <a href="#"><img src="https://img.shields.io/badge/-HTML+CSS+JavaScript-0078D6?style=flat-square&logo=HTML+CSS+JavaScript&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/-API-0078D6?style=flat-square&logo=API&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/Django&Express-000000?style=flat-square&for-the-badge&logo=Django&Express&logoColor=F0F0F0" />  </a>
+
+  </div>
+  <hr>
+
 
 - 🌍 I am compiling a professional portfolio of full-stack applications to demonstrate job-ready skills to potential employers and collaborators.
 - 😄 Pronouns: He/Him
