@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 - 🔭 I’m currently working through a Software Engineering Remote Flex Immersive at General Assembly.
@@ -12,4 +13,5 @@
 [![Tony's github stats](https://github-readme-stats.vercel.app/api?username=TonyPurple&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/TonyPurple/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyPurple)](https://github.com/TonyPurple/github-readme-stats)
+  </div>
 
