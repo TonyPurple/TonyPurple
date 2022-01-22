@@ -34,12 +34,12 @@
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
-</div>
     <hr>
     <div>
         <h3>Reach Me:</h3>
       <a href="https://www.linkedin.com/in/anthony-vanoni/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
       <a href="mailto: tony.vanoni@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Email&logoColor=white" />  </a>
+   </div>
    </div>
 
 
