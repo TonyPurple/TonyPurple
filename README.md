@@ -1,12 +1,11 @@
 <div align="center">
-
    <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TonyPurple&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=react" />  </a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyPurple&layout=compact&theme=react" /></a> 
+   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonyPurple&layout=compact&theme=react" /></a> 
    <hr>
-   
-- 🔭 I’m currently working through a Software Engineering Remote Flex Immersive at General Assembly.
-- ⚡ I love pro wrestling, soccer, hip hop and R&B, learning Japanese and programming.
-- 🌱  I’m hungry to learn, like to feel challenged, cool with feedback, and prefer to avoid brilliant jerks.
+  <h2>A little about me:</h2>
+  <h3>🔭 I’m currently working through a Software Engineering Remote Flex Immersive at General Assembly. ⚡ I love pro wrestling, soccer, hip hop and R&B, learning Japanese and programming. 🌱  I’m hungry to learn, like to feel challenged, cool with feedback, and prefer to avoid brilliant jerks.  </h3>
+  <hr>
+
 - 🌍 I am compiling a professional portfolio of full-stack applications to demonstrate job-ready skills to potential employers and collaborators.
 - 📫 How to reach me: tony.vanoni@outlook.com
 - 😄 Pronouns: He/Him
