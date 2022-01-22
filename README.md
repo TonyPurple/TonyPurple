@@ -6,13 +6,6 @@
   <h3>🔭 I’m currently working through a Software Engineering Remote Flex Immersive at General Assembly. ⚡ I love pro wrestling, soccer, hip hop and R&B, learning Japanese and programming. 🌱  I’m hungry to learn, like to feel challenged, cool with feedback, and prefer to avoid brilliant jerks.  </h3>
   <hr>
    <div>
-      <h3>Reach out:</h3>
-      <a href="https://www.linkedin.com/in/anthony-vanoni/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-      <a href="https://github.com/TonyPurple"><img src="https://img.shields.io/github/followers/TonyPurple?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
-      <a href="mailto: tony.vanoni@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Email&logoColor=white" />  </a>
-   </div>
-   <hr>
-   <div>
       <h3>Proficiencies:</h3>
       <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Swift+iOS-C51A4A?style=flat-square&for-the-badge&logo=Swift+iOS" />  </a>
@@ -42,6 +35,12 @@
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
 </div>
+    <hr>
+    <div>
+        <h3>Reach Me:</h3>
+      <a href="https://www.linkedin.com/in/anthony-vanoni/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
+      <a href="mailto: tony.vanoni@outlook.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Email&logoColor=white" />  </a>
+   </div>
 
 
 - 🌍 I am compiling a professional portfolio of full-stack applications to demonstrate job-ready skills to potential employers and collaborators.
