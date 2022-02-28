@@ -21,7 +21,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Bulma-CA4245?style=flat-square&for-the-badge&logo=Bulma&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Express.js-404D59?style=flat-square&for-the-badge" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
@@ -37,7 +37,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Materialize-4A154B?style=flat-square&logo=materialize" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />  </a>
     </div>
     <hr>
     <div>
