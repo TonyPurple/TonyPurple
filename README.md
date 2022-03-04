@@ -38,6 +38,7 @@
       <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Materialize-4A154B?style=flat-square&logo=materialize" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&for-the-badge&logo=npm&logoColor=white" />  </a>
+      <a href="#"><img src="https://img.shields.io/badge/CodePen-white?style=flat-square&for-the-badge&logo=codepen&logoColor=black" />  </a>
     </div>
     <hr>
     <div>
