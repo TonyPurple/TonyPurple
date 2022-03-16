@@ -3,7 +3,7 @@
 
 
 <h3>:computer: I’m currently working through a Software Engineering Remote Flex Immersive at General Assembly. :keyboard:</h3>
-<h3>⚡ I love pro wrestling, soccer, hip hop and R&B, learning Japanese and programming.</h3>
+<h3>⚡ In my personal life, I love pro wrestling, soccer, hip hop and R&B, learning Japanese and programming. I spend a lot of time consuming information and usually have a focused area of interest for an extended period of time.</h3>
 <h3>:bowtie: In my professional life, I look for the hardest problems to solve and where I can learn and develop the most.</h3>
 <h3>🌱  I’m hungry to learn, like to feel challenged, cool with feedback, and prefer to avoid brilliant jerks.</h3>
 <h3>:nerd_face: I am compiling a professional portfolio of full-stack applications to demonstrate job-ready skills to potential employers and collaborators.</h3>
