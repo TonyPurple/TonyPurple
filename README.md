@@ -8,8 +8,8 @@
 <h3>🌱  I’m hungry to learn, like to feel challenged, cool with feedback, and prefer to avoid brilliant jerks.</h3>
 <h3>:nerd_face: I am currently focusing on data structures and algorithms to improve my ability to write scalable code.</h3>
 <h3 align=center>⚡ Fun fact: It was my childhood dream to become a professional wrestler. While life took me down other roads (not to mention having the athletic ability of a software developer), at the age of 31 I spent a summer literally learning the ropes at a professional wrestling school on Vancouver Island. At that point, I never intended to pursue it as any sort of career but I suppose I was hoping to prove something to my childhood self. My summer as Surrey Jack will be as close as I get to that childhood dream, but I am determined to turn this adulthood dream into a reality. I am happy that exploring life's curiosities has lead me into development! :computer:</h3>
-   <a href="#"><img align="center" src="https://github-readme-stats-tonypurple.vercel.app/api?username=TonyPurple&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=outrun" />  </a>
-   <a href="#"><img align="center" src="https://github-readme-stats-tonypurple.vercel.app/api/top-langs/?username=TonyPurple&layout=compact&theme=outrun" /></a> 
+   <a href="#"><img align="center" src="https://github-readme-stats-delta-ochre.vercel.app/api?username=TonyPurple&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=outrun" />  </a>
+   <a href="#"><img align="center" src="https://github-readme-stats-delta-ochre.vercel.app/api/top-langs/?username=TonyPurple&layout=compact&theme=outrun" /></a> 
    <hr>
    <div>
       <h3>Proficiencies:</h3>
