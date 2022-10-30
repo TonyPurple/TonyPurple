@@ -10,7 +10,7 @@
 <h3 align=center>⚡ Fun fact: It was my childhood dream to become a professional wrestler. While life took me down other roads (not to mention having the athletic ability of a software developer), at the age of 31 I spent a summer literally learning the ropes at a professional wrestling school on Vancouver Island. At that point, I never intended to pursue it as any sort of career but I suppose I was hoping to prove something to my childhood self. My summer as Surrey Jack will be as close as I get to that childhood dream, but I am determined to turn this adulthood dream into a reality. I am happy that exploring life's curiosities has lead me into development! :computer:</h3>
    <a href="#"><img align="center" src="https://github-readme-stats-tonypurple.vercel.app/api?username=TonyPurple&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=outrun" />  </a>
    <a href="#"><img align="center" src="https://github-readme-stats-tonypurple.vercel.app/api/top-langs/?username=TonyPurple&layout=compact&theme=outrun" /></a> 
-   <a href="https://app.daily.dev/TonyPurple"><img src="https://api.daily.dev/devcards/4c618d935ae845429405719975163577.png?r=23y" width="400" alt="Anthony Vanoni's Dev Card"/></a>
+   <a href="https://app.daily.dev/TonyPurple"><img src="https://github.com/TonyPurple/TonyPurple/blob/main/devcard.svg" width="400" alt="Tony Purple's Dev Card"/></a>
    <hr>
    <div>
       <h3>Proficiencies:</h3>
