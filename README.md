@@ -1,51 +1,20 @@
-<div align="center">
-   <h2>About me!</h2>
+# Anthony Vanoni
+### Developer and avid pro-wrestling fan. Building user-friendly web apps and taking down bugs.
 
+⤷ Constantly looking to improve my skills and deliver high-quality work.
 
-   <h3>Software engineer currently working mostly in front-end development.</h3> 
-   <h3>Skilled in React, NextJS, and Typescript.</h3>
-   <h3>Constantly seeking new challenges and opportunities to grow as a developer</h3>
-<h3>:nerd_face: I am currently making my contributions on GitLab since turning pro, so not many green boxes for me on GitHub :( </h3>
-<h3 align=center>⚡ Fun fact: It was my childhood dream to become a professional wrestler. While life took me down other roads (not to mention having the athletic ability of a software developer), at the age of 31 I spent a summer literally learning the ropes at a professional wrestling school on Vancouver Island. At that point, I never intended to pursue it as any sort of career but I suppose I was hoping to prove something to my childhood self. My summer as Surrey Jack will be as close as I get to that childhood dream, but I am determined to turn this adulthood dream into a reality. I am happy that exploring life's curiosities has lead me into development! :computer:</h3>
+ <a aligh="left" href="https://www.wrestlingwithcode.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:tony@wrestlingwithcode.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/anthony-vanoni" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+
+⚐ Based in British Columbia, Canada
+
+ϟ Currently specializing in React, TypeScript, GraphQL, Next.js, Material-UI, and more. 
+
+ϟ Recently defeated a particularly stubborn bug in the ring of code using nothing but a flying elbow drop from the top rope.
+
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/php.svg" alt="PHP" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://jquery.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/jquery.svg" alt="JQuery" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="25" height="25" /></a> <a href="https://babeljs.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/babel.svg" alt="Babel" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/firebase.svg" alt="Firebase" width="25" height="25" /></a> <a href="https://www.heroku.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/heroku.svg" alt="Heroku" width="25" height="25" /></a>
    <a href="#"><img align="center" src="https://github-readme-stats-tonypurple.vercel.app/api?username=TonyPurple&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=outrun" />  </a>
    <a href="#"><img align="center" src="https://github-readme-stats-tonypurple.vercel.app/api/top-langs/?username=TonyPurple&layout=compact&theme=outrun" /></a> 
    <a href="https://app.daily.dev/TonyPurple"><img src="https://github.com/TonyPurple/TonyPurple/blob/main/devcard.svg" width="400" alt="Tony Purple's Dev Card"/></a>
-   <hr>
-   <div>
-      <h3>Proficiencies:</h3>
-      <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Swift+iOS-C51A4A?style=flat-square&for-the-badge&logo=Swift+iOS" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&for-the-badge&logo=react-router&logoColor" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Bulma-CA4245?style=flat-square&for-the-badge&logo=Bulma&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&for-the-badge&logo=express&logoColor=%2361DAFB" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/Milligram-232F3E?style=flat-square&logo=Milligram" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Mongoose-0081CB?style=flat-square&logo=mongoose" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=flat-square&logo=Adobe%20Creative%20Cloud&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Materialize-4A154B?style=flat-square&logo=materialize" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&for-the-badge&logo=npm&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/CodePen-white?style=flat-square&for-the-badge&logo=codepen&logoColor=black" />  </a>
-    </div>
-    <hr>
-    <div>
-        <h3>Reach Me:</h3>
-      <a href="https://www.linkedin.com/in/anthony-vanoni/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-      <a href="mailto: tony@wrestlingwithcode.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Email&logoColor=white" />  </a>
-   </div>
-   </div>
+
 
