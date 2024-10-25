@@ -36,4 +36,5 @@
 - Product Manager at Acro Commerce
 
 I've been working on Gitlab for the last couple of years, so you will notice there's not alot of green squares below. Here are some blue ones instead
-⤷ ![Contribution Graph](./assets/contribution-graph.png)
+
+⤷ ![Contribution Graph](./contribution-graph.png)
